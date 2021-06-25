@@ -3,15 +3,17 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to VIPEduBot's documentation!
+Welcome to VIPEduHub documentation!
 =====================================
 
 .. toctree::
    :caption: Verification Cheats
    :maxdepth: 2
 
+   uvm_index
    sva_cheats
    GVIM_cheats
+   Downloads
 
 
 Indices and tables
